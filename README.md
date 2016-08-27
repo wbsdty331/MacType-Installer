@@ -16,4 +16,9 @@ makensis.exe c:\path\to\nsi\mactype.nsi
 ```
 
 ## License
-[LGPL 3.0](https://opensource.org/licenses/LGPL-3.0)
+
+This Installer is released under [LGPL 3.0](https://opensource.org/licenses/LGPL-3.0) License.
+
+MacType is under [Apache License](https://opensource.org/licenses/Apache-2.0).
+
+NSIS is under [The zlib/libpng License](https://opensource.org/licenses/Zlib). 
