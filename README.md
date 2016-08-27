@@ -2,9 +2,14 @@
 
 A New Installer For [MacType](https://github.com/snowie2000/mactype).
 
+## MacType
+
+* Based on MacType-Dev 20160216
+* EasyHook 2.7.6035.0
+* Support Windows 10 1607
+
 ## Requirements
 * NSIS 3.0
-* makensis or makensisw
 
 ## Building
 
