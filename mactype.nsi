@@ -1,3 +1,11 @@
+; Unicode test by Dr.thril
+
+Name "Unicode Test"
+OutFile "unicode.exe"
+
+ShowInstDetails show
+RequestExecutionLevel admin
+
 Section "Unicode in UI"
 	DetailPrint "Hello World!"
 	DetailPrint "שלום עולם!"
